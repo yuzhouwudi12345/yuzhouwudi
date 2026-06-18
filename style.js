@@ -1,1 +1,0 @@
-<!DOCTYPE html><br/><html lang="zh-CN"><br/><head><br/>    <meta charset="UTF-8"><br/>    <title>马腾远的网站</title><br/>    <link rel="stylesheet" href="style.css"><br/></head><br/><body><br/>    <h1>欢迎来到马腾远的网站</h1><br/>    <p>本站由GitHub Pages搭建</p ><br/><br/>    <!-- 引入js动态效果 --><br/>    <script src="style.js"></script><br/></body><br/></html>
