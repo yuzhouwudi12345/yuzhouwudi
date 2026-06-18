@@ -235,7 +235,7 @@
 
     <!-- 头部Banner -->
     <section class="hero" id="home">
-        <div class="hero-avatar">M</div>
+        <div class="hero-avatar">马</div>
         <h1>个人自我介绍</h1>
         <p>热爱前端开发｜专注网页设计｜积极进取的计算机学生</p >
     </section>
